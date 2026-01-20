@@ -1,0 +1,11 @@
+timestamp,waste_type,confidence,waste_level,device_status,processing_time_ms
+2026-01-18 01:39:33,Metal,0.644,0.0,Online,56.11
+2026-01-18 01:39:46,Metal,0.623,0.0,Online,110.42
+2026-01-18 01:39:56,Metal,0.621,0.0,Online,88.84
+2026-01-18 01:39:59,Metal,0.939,0.0,Online,91.83
+2026-01-18 01:40:20,Metal,0.655,0.0,Online,53.95
+2026-01-18 01:40:24,Metal,0.582,0.0,Online,279.85
+2026-01-18 01:40:36,Metal,0.541,0.0,Online,53.69
+2026-01-18 01:40:41,Metal,0.597,0.0,Online,87.21
+2026-01-18 01:40:45,Metal,0.568,0.0,Online,234.58
+2026-01-18 01:40:57,Metal,0.693,0.0,Online,90.81
